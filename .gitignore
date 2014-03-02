@@ -16,3 +16,12 @@
 *.exe
 *.out
 *.app
+
+# No video stuff
+video/
+
+# No emacs backup files
+*~
+
+# No binaries
+bin/
